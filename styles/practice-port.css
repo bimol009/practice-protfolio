@@ -32,21 +32,18 @@
     }
 
     .header-section{
-        background-image: url('../images/donation1.jpg');
+        background-image:  url('../images/donation1.jpg');
         filter: rgba(18, 18, 18, 1);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
-        
+    
         height: 669px;
         width: 1440px;
  
         border-radius: 0px;
        margin: auto;
-
-      
-
-        
+   
     }
 
     .header-title{
